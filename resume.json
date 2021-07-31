@@ -1,0 +1,53 @@
+{
+	"basics": {
+		"name": "Vikas Patel",
+		"label": "Student",
+		"picture": "",
+		"email": "2019kucp1089@iiitkota.ac.in",
+		"phone": "8890546192",
+		"summary": "I am a student of Indian Institute of Information technology, Kota(India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Rampur Bhagan Bikapur Ayodhya",
+			"postalCode": "224203",
+			"city": "Faizabad",
+			"countryCode": "India",
+			"region": "UttarPradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "vikas7460",
+				"url": "https://github.com/vikas7460"
+			},
+			{
+				"network": "linkedin",
+				"username": "vikas-patel-812181191",
+				"url": "https://www.linkedin.com/in/vikas-patel-812181191/"
+			},
+			{
+				"network": "Instagram",
+				"username": "vicky_the_rock9",
+				"url": "https://www.instagram.com/vicky_the_rock9/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-02-08",
+		"endDate": "2023-30-06",
+		"gpa": "7.93(till 4th sem)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript(beginner)", "java(basic)", "C/C++", "python(beginner)","Data Structures & algorithm","Android Development"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket(Batting)", "sprinter(100 metre and 200 metre)","kabaddi"]
+	}]
+}
